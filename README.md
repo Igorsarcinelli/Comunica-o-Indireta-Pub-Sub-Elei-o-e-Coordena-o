@@ -7,6 +7,7 @@ Cada execução do arquivo `Minerador.py` representa um nó participante conecta
 - **CONTROLADOR (líder)** – coordena o sistema, gera desafios e valida soluções;
 - **MINERADOR** – recebe desafios e executa a prova-de-trabalho (Proof of Work).
 
+![Video](comunicacaoPub.gif)
 ---
 
 ## 🗂 Estrutura do repositório
