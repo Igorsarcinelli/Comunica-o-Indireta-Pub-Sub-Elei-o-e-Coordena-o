@@ -15,9 +15,6 @@ Cada execução do arquivo `Minerador.py` representa um nó participante conecta
 - `Minerador.py`  
   Implementação completa do nó participante (MQTT, máquina de estados, eleição e mineração).
 
-- `PPD-CI-ECO0130.pdf` *(se presente)*  
-  Relatório técnico completo do Laboratório III.
-
 - `README.md`  
   Instruções de execução e resumo técnico do projeto.
 
