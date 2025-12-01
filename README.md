@@ -194,6 +194,7 @@ Em síntese, o projeto cumpre o objetivo de demonstrar, de forma prática, os co
 
 * **Caio Zottele Mendes**
 * **Igor Sarcinelli Santos**
+* **Maria Eduarda Felipe Fasollo** 
 
 Disciplina: **Programação Distribuída e Paralela – Laboratório III**
 Curso: **Engenharia de Computação**
